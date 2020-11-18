@@ -1,4 +1,5 @@
 ![logo](https://opencollective.com/public/images/opencollectivelogo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fopencollective.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fopencollective?ref=badge_shield)
 
 Please raise all issues in this repo, which serves as an overview for the project.
 
@@ -23,3 +24,7 @@ This repository serves as [our main issue tracker](https://github.com/opencollec
 ## Questions?
 
 Join [our Slack](https://slack.opencollective.com) or [email support](mailto:support@opencollective.com).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fopencollective.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fopencollective?ref=badge_large)
